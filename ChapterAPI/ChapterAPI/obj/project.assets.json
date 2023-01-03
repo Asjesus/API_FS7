@@ -2129,11 +2129,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ander\\Desktop\\ChapterAPI\\ChapterAPI\\ChapterAPI.csproj",
+      "projectUniqueName": "C:\\Users\\ander\\Desktop\\API_FS7\\ChapterAPI\\ChapterAPI\\ChapterAPI.csproj",
       "projectName": "ChapterAPI",
-      "projectPath": "C:\\Users\\ander\\Desktop\\ChapterAPI\\ChapterAPI\\ChapterAPI.csproj",
+      "projectPath": "C:\\Users\\ander\\Desktop\\API_FS7\\ChapterAPI\\ChapterAPI\\ChapterAPI.csproj",
       "packagesPath": "C:\\Users\\ander\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ander\\Desktop\\ChapterAPI\\ChapterAPI\\obj\\",
+      "outputPath": "C:\\Users\\ander\\Desktop\\API_FS7\\ChapterAPI\\ChapterAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
