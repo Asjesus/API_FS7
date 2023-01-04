@@ -51,7 +51,7 @@ namespace ChapterAPI.Controllers
             } 
         }
 
-        [HttpPut]
+        [HttpPut("{id}")]
         public IActionResult Update(int id, Livro livro) 
         {
             try

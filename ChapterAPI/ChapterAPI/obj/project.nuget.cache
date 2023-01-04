@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+tiHSndVgrHbFRTS7Y5SLUs/TQEBKe/Zue4LmbRf4ZUvoU94Lvnpl9oQQ/teRsCgy3dV65zImKbQDSlGqqWPBg==",
+  "dgSpecHash": "OY7KwlLCMdaVmGVwE1MuFZdXkpJX83Xz399yHOmMiwUJ1e4kzOXJ+Hag1+z9auzw3RJLyYnI7OuTRKS21/cTXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ander\\Desktop\\API_FS7\\ChapterAPI\\ChapterAPI\\ChapterAPI.csproj",
+  "projectFilePath": "C:\\Users\\ander\\Desktop\\API_FS7\\API_FS7\\ChapterAPI\\ChapterAPI\\ChapterAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ander\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\ander\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
