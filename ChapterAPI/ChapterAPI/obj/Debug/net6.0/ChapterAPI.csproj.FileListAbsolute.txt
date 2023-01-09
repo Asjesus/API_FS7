@@ -258,3 +258,4 @@ C:\Users\ander\Desktop\API_FS7\API_FS7\ChapterAPI\ChapterAPI\obj\Debug\net6.0\re
 C:\Users\ander\Desktop\API_FS7\API_FS7\ChapterAPI\ChapterAPI\obj\Debug\net6.0\ChapterAPI.pdb
 C:\Users\ander\Desktop\API_FS7\API_FS7\ChapterAPI\ChapterAPI\obj\Debug\net6.0\ChapterAPI.genruntimeconfig.cache
 C:\Users\ander\Desktop\API_FS7\API_FS7\ChapterAPI\ChapterAPI\obj\Debug\net6.0\ref\ChapterAPI.dll
+C:\Users\ander\Desktop\API_FS7\API_FS7\ChapterAPI\ChapterAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
